@@ -20,7 +20,7 @@ Luckily, when going through the references of homework form another course, I fo
 
 
 
-#### Algorithm M
+#### Algorithm FM
 
 Well, this algorithm can be found in [this paper](https://doi.org/10.1080/0025570X.1982.11976970 ). For those who cannot access the paper, I will describe it briefly.
 
